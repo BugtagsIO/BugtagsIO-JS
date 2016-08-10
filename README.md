@@ -1,14 +1,14 @@
 # Bugtags Bug Reporter for HTML 5
 
-Bugtags is The Simplest and Most Efficient Tool for Mobile App Testing.
+Improve your app quality and reliability through In-App bug reporting and crash reporting.
 
-In-App Bug reporting, crash reporting and all context data will be automatically uploaded to the Bugtags Cloud. With all this data, Bug can be fixed efficiently.
+Report bugs directly from within your app, no longer need to switch to a bug reporting application.
 
 ## Installation
 
 1. Load the Bugtags JS SDK on your Web page, there are three options:
 
-    Option 1. Load from the Bugtags CDN
+    Option 1. Load from Bugtags CDN
 
     ``` javascript
     <script src="https://static.bugtags.io/sdk/bugtags-1.0.3.js"></script>
